@@ -1,5 +1,5 @@
 # Golang Blockchain
-![](https://github.com/MicrohexHQ/golang-blockchain/blob/master/U/ArtBoard%20Image%20(586).jpg)
+![](https://github.com/MicrohexHQ/golang-blockchain/blob/master/U/AI/ArtBoard%20Image%20(590).jpg)
 ### In this tutorial, we look at the go module system and build the basic framework for a blockchain. 
 
 ## Run `go run main.go` to run the app, run `go build main.go` to build an executable file.
